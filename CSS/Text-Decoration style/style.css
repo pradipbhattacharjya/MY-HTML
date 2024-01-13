@@ -1,0 +1,15 @@
+.box{
+    text-decoration: underline;
+}
+#box1{
+    text-decoration-style: dashed;
+}
+#box2{
+    text-emphasis-style: double;
+}
+#box3 {
+    text-decoration-style: dotted;
+}
+#box4 {
+    text-decoration-style: wavy;
+}

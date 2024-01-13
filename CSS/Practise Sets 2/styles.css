@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+#bar {
+    background-color: aqua;
+    color: brown;
+}
+
+main {
+    height: 500px;
+    background-color: blanchedalmond;
+}
+#product {
+   
+    height: 500px;
+    width: 400;
+    /* background-image: url(Tshart.png);
+    background-repeat: no-repeat;
+    background-position: center ; */
+
+    background: green url('Tshart.png') no-repeat center;
+}

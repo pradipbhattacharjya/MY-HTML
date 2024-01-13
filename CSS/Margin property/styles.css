@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pad {
+    height: 50px;
+    width: 50px;
+    padding: 2px;
+}
+#first{
+    
+    margin: 5px 5px 25px 5px;
+    background-color: slateblue;
+}
+#Second {
+    margin: 50px 5px 5px 5px;
+    background-color: brown;
+}

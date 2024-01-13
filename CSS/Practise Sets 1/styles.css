@@ -1,0 +1,21 @@
+/* This is My comment */
+h1 {
+    color: red;
+}
+#heading {
+    color: blueviolet;
+
+}
+#div_2{
+    color: blue;
+}
+p{
+    color:bisque;
+}
+.special_heading{
+    color: chartreuse;
+}
+
+#first, #second{
+    color: rgb(240, 128, 156);
+}

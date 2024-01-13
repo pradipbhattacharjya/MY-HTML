@@ -1,0 +1,17 @@
+#head{
+    background-color: blue;
+    text-decoration: line-through;
+    
+}
+#under{
+    background-color: rgb(225, 204, 204);
+    text-decoration: underline;
+}
+#over{
+    background-color: rgb(176, 134, 215);
+    text-decoration: overline;
+}
+#link{
+    background-color: rgb(154, 222, 222);
+    text-decoration: none;
+}

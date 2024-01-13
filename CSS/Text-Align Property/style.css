@@ -1,0 +1,12 @@
+.box{
+    height: 100px; width: 100px;
+}
+#Box1{
+    background-color: red; text-align: center;
+}
+#Box2{
+    background-color: aquamarine; text-align: left;
+}
+#box3{
+    background-color: blue; text-align: right;
+}

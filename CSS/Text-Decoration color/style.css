@@ -1,0 +1,15 @@
+.box{
+    text-decoration: underline;
+}
+#box1{
+    text-decoration-color: red;
+}
+#box2{
+    text-emphasis-color: blue;
+}
+#box3 {
+    text-decoration-color: green;
+}
+#box4 {
+    text-decoration-color: rgb(86,20,27);
+}

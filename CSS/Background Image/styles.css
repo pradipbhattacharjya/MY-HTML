@@ -1,0 +1,8 @@
+#icon {
+    height: 500px;
+    width: 500px;
+    background-image: url(unnamed.jpg);
+    background-size: contain;
+    background-repeat: no-repeat ;
+    background-position-y: center;
+}
